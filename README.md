@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RATSIMBAZAFIMAMONJY
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Unity 
+- 🌱 I’m currently a mobile and web developper 
 - 📫 How to reach me : by email tefynanahary1234@gmail.com
 
 <!---
