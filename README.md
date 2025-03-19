@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently a fullstack web and mobile dev 
 - 📫 How to reach me : by email tefynanahary1234@gmail.com
-- Techno: Fullstack JS
+- Techno: Fullstack JS (NestJS, NextJS, ReactJS, React Native)
 
 <!---
 RATSIMBAZAFIMAMONJY/RATSIMBAZAFIMAMONJY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
